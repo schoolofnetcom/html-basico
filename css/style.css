@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    vertical-align: baseline;
+}
+
+#content {
+    border: 1px solid #000000;
+}
